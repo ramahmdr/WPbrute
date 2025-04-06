@@ -1,0 +1,9 @@
+admin
+admin123
+pass
+pass123
+password
+inipassword
+administrator
+testadmin
+ramaganteng
